@@ -1,0 +1,46 @@
+_repo: Outwitting-Our-Nerves--A-Primer-of-Psychotherapy_14980
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Salisbury, Helen M.
+    gutenberg_agent_id: '5768'
+    url: http://www.gutenberg.org/2009/agents/5768
+  - agent_name: Jackson, Josephine A. (Josephine Agnes)
+    alias: Jackson, Josephine Agnes
+    birthdate: 1865
+    deathdate: 1945
+    gutenberg_agent_id: '5767'
+    url: http://www.gutenberg.org/2009/agents/5767
+description: '"''Your trouble is nervous. There is nothing we can cut out and there
+  is nothing we can give medicine for.'' With these words a young college student
+  was dismissed from one of our great diagnostic clinics. The physician was right.
+  In a nervous disorder there is nothing to cut out and there is nothing to give medicine
+  for. Nevertheless there is something to be done--something which is as definite
+  and scientific as a prescription or a surgical operation. Psychotherapy, which is
+  treatment by the mental measures of psycho-analysis and re-education, is an established
+  procedure in the scientific world to-day. Nervous disorders are now curable, as
+  has been proved by the clinical results in scores of cases from civil life, under
+  treatment by Freud, Janet, Prince, Sidis, DuBois, and others; and in thousands of
+  cases of war neuroses as reported by Smith and Pear, Eder, MacCurdy, and other military
+  observers.'
+gutenberg_bookshelf:
+- Psychology
+- Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14980'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Psychoanalysis'
+- !lcsh 'Nervous system -- Diseases'
+- !lcsh 'Therapeutics, Suggestive'
+- !lcc 'RC'
+title: 'Outwitting Our Nerves: A Primer of Psychotherapy'
+url: http://www.gutenberg.org/ebooks/14980
